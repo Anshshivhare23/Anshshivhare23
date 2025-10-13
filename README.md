@@ -1,7 +1,7 @@
 <div align="center">
   
-# 🌟 Hey there! I'm Ansh Shivhare 
-### 🚀 Flutter Developer | 💻 Problem Solver | 🎯 Tech Enthusiast
+# Hey there! I'm Ansh Shivhare 
+###  Flutter Developer |  Problem Solver |  Tech Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Building+beautiful+mobile+experiences;Exploring+Web3+%26+Blockchain;Crafting+elegant+solutions;Always+learning+something+new!" alt="Typing SVG" />
 
@@ -9,27 +9,27 @@
 
 ---
 
-## 🎭 About Me
+##  About Me
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200" align="left">
   <p float="left">
     <samp>
-      🎯 I'm Ansh | Developer & Dreamer
+       I'm Ansh | Developer & Dreamer
       <br><br>
-      🔥 Passionate Flutter developer crafting seamless mobile experiences
+       Passionate Flutter developer crafting seamless mobile experiences
       <br>
-      🌐 Diving deep into Web3 & Blockchain for crowdsourcing solutions  
+       Diving deep into Web3 & Blockchain for crowdsourcing solutions  
       <br>
-      💡 Love turning complex problems into elegant code
+       Love turning complex problems into elegant code
       <br>
-      🎮 When not coding, you'll find me exploring new tech or jamming to music
+       When not coding, you'll find me exploring new tech or jamming to music
       <br><br>
-      📍 Currently building the future, one app at a time
+       Currently building the future, one app at a time
       <br>
-      🎨 Believer in clean code and beautiful UIs
+       Believer in clean code and beautiful UIs
       <br><br>
-      💭 "Code is poetry, and I'm here to write epic verses!"
+       "Code is poetry, and I'm here to write epic verses!"
     </samp>
   </p>
 </p>
@@ -38,24 +38,24 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+##  Tech Arsenal
 
 <div align="center">
 
-### 📱 Mobile Development
+###  Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-### 💻 Programming Languages
+###  Programming Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### 🎨 Frontend & Design
+###  Frontend & Design
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🔧 Tools & Technologies
+###  Tools & Technologies
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -64,21 +64,21 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🍽️ **[SwaadSeva](https://github.com/Anshshivhare23/SwaadSeva)** | Food delivery mobile app with seamless UX | Flutter, Dart |
-| 🏪 **[RestroZone](https://github.com/Anshshivhare23/Restrozone)** | Restaurant management web platform | HTML, CSS, JavaScript |
-| 🧮 **[Core DSA in C](https://github.com/Anshshivhare23/Core_DSA_in_C_Practice)** | Complete DSA implementation guide | C Programming |
+|  **[SwaadSeva](https://github.com/Anshshivhare23/SwaadSeva)** | Food delivery mobile app with seamless UX | Flutter, Dart |
+|  **[RestroZone](https://github.com/Anshshivhare23/Restrozone)** | Restaurant management web platform | HTML, CSS, JavaScript |
+|  **[Core DSA in C](https://github.com/Anshshivhare23/Core_DSA_in_C_Practice)** | Complete DSA implementation guide | C Programming |
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anshshivhare23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=GitHub%20Stats" height="150" alt="stats graph" />
@@ -103,7 +103,7 @@
 
 ---
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
 
@@ -118,7 +118,7 @@
 
 <div align="center">
   
-### 💫 Thanks for stopping by! Let's build something amazing together! 
+###  Thanks for stopping by! Let's build something amazing together! 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
