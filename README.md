@@ -17,17 +17,17 @@
     <samp>
        I'm Ansh | Developer & Dreamer
       <br><br>
-       Passionate Flutter developer crafting seamless mobile experiences
+       -Passionate Flutter developer crafting seamless mobile experiences
       <br>
-       Diving deep into Web3 & Blockchain for crowdsourcing solutions  
+       -Diving deep into Web3 & Blockchain for crowdsourcing solutions  
       <br>
-       Love turning complex problems into elegant code
+       -Love turning complex problems into elegant code
       <br>
-       When not coding, you'll find me exploring new tech or jamming to music
+       -When not coding, you'll find me exploring new tech or jamming to music
       <br><br>
-       Currently building the future, one app at a time
+       -Currently building the future, one app at a time
       <br>
-       Believer in clean code and beautiful UIs
+       -Believer in clean code and beautiful UIs
       <br><br>
        "Code is poetry, and I'm here to write epic verses!"
     </samp>
@@ -91,7 +91,7 @@
 
 ---
 
-## 🎵 Currently Vibing To
+##  Currently Vibing To
 
 <div align="center">
   <img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" width="200" alt="Music vibes">
