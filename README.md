@@ -3,7 +3,7 @@
 # Hey there! I'm Ansh Shivhare 
 ###  Flutter Developer |  Problem Solver |  Tech Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Building+beautiful+mobile+experiences;Exploring+Web3+%26+Blockchain;Crafting+elegant+solutions;Always+learning+something+new!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Building+beautiful+mobile+%26+web+experiences;Flutter+%7C+Next.js+%7C+TypeScript;Crafting+elegant+solutions;Always+learning+something+new!" alt="Typing SVG" />
 
 </div>
 
@@ -47,13 +47,18 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ###  Programming Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ###  Frontend & Design
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ###  Tools & Technologies
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -71,8 +76,13 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 |  **[SwaadSeva](https://github.com/Anshshivhare23/SwaadSeva)** | Food delivery mobile app with seamless UX | Flutter, Dart |
+|  **[SwadSeva WebSite](https://github.com/Anshshivhare23/SwadSeva-WebSite)** | Full-stack web platform for home cook registrations | JavaScript, Node.js |
+|  **[Sammunat Internship Portfolio](https://github.com/Anshshivhare23/sammunat-internship-portfolio)** | Portfolio landing page built with Next.js & TypeScript | TypeScript, Next.js |
 |  **[RestroZone](https://github.com/Anshshivhare23/Restrozone)** | Restaurant management web platform | HTML, CSS, JavaScript |
+|  **[Upwork Clone](https://github.com/Anshshivhare23/Upwork-Clone-WebWroks--Html-CSS-JavaScript-PHP-Project)** | Freelancer-client platform with auth & job listings | HTML, CSS, JavaScript, PHP |
+|  **[Portfolio](https://github.com/Anshshivhare23/Portfolio)** | Personal portfolio website showcasing projects & skills | HTML, CSS |
 |  **[Core DSA in C](https://github.com/Anshshivhare23/Core_DSA_in_C_Practice)** | Complete DSA implementation guide | C Programming |
+|  **[Shell Scripts](https://github.com/Anshshivhare23/Shell-Scripts)** | Disk usage monitor & automated backup scripts | Bash |
 
 </div>
 
