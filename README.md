@@ -77,12 +77,7 @@
 |---------|-------------|------------|
 |  **[SwaadSeva](https://github.com/Anshshivhare23/SwaadSeva)** | Food delivery mobile app with seamless UX | Flutter, Dart |
 |  **[SwadSeva WebSite](https://github.com/Anshshivhare23/SwadSeva-WebSite)** | Full-stack web platform for home cook registrations | JavaScript, Node.js |
-|  **[Sammunat Internship Portfolio](https://github.com/Anshshivhare23/sammunat-internship-portfolio)** | Portfolio landing page built with Next.js & TypeScript | TypeScript, Next.js |
 |  **[RestroZone](https://github.com/Anshshivhare23/Restrozone)** | Restaurant management web platform | HTML, CSS, JavaScript |
-|  **[Upwork Clone](https://github.com/Anshshivhare23/Upwork-Clone-WebWroks--Html-CSS-JavaScript-PHP-Project)** | Freelancer-client platform with auth & job listings | HTML, CSS, JavaScript, PHP |
-|  **[Portfolio](https://github.com/Anshshivhare23/Portfolio)** | Personal portfolio website showcasing projects & skills | HTML, CSS |
-|  **[Core DSA in C](https://github.com/Anshshivhare23/Core_DSA_in_C_Practice)** | Complete DSA implementation guide | C Programming |
-|  **[Shell Scripts](https://github.com/Anshshivhare23/Shell-Scripts)** | Disk usage monitor & automated backup scripts | Bash |
 
 </div>
 
