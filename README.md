@@ -3,7 +3,11 @@
 # Hey there! I'm Ansh Shivhare 
 ###  Flutter Developer |  Problem Solver |  Tech Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Building+beautiful+mobile+%26+web+experiences;Flutter+%7C+Next.js+%7C+TypeScript;Crafting+elegant+solutions;Always+learning+something+new!" alt="Typing SVG" />
+<p align="center">
+  <samp><b style="color:#00D9FF">⚡ Building beautiful mobile & web experiences — Flutter  |  Next.js  |  TypeScript</b></samp>
+  <br>
+  <sub><samp style="color:#9e9e9e">Crafting elegant solutions · Always learning something new!</samp></sub>
+</p>
 
 </div>
 
@@ -110,7 +114,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" width="200" alt="Music vibes">
   <br><br>
-  [![Spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/wdfc2yo66l0azxxg0yrv7vlsc)
+  <a href="https://open.spotify.com/user/wdfc2yo66l0azxxg0yrv7vlsc">
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=wdfc2yo66l0azxxg0yrv7vlsc" alt="My recently played on Spotify" width="440" />
+  </a>
 </div>
 
 ---
