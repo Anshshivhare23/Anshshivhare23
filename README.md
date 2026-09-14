@@ -114,7 +114,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" width="200" alt="Music vibes">
   <br><br>
-  [![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=wdfc2yo66l0azxxg0yrv7vlsc)](https://open.spotify.com/user/wdfc2yo66l0azxxg0yrv7vlsc)
+  <a href="https://open.spotify.com/user/wdfc2yo66l0azxxg0yrv7vlsc">
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=wdfc2yo66l0azxxg0yrv7vlsc" alt="My recently played on Spotify" width="440" />
+  </a>
 </div>
 
 ---
