@@ -85,14 +85,9 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-|  **[CNC Tool Wear Prediction](https://github.com/Anshshivhare23/CNC-Tool-Wear-Prediction)** | ML project predicting cutting tool wear in CNC machining with sensor data analysis | Python, Jupyter, ML |
-|  **[Sammunat Internship Portfolio](https://github.com/Anshshivhare23/sammunat-internship-portfolio)** | Portfolio landing page for Sammunat LLC internship assignment | Next.js, TypeScript |
-|  **[Portfolio](https://github.com/Anshshivhare23/Portfolio)** | Personal portfolio website showcasing projects, skills, and experience | HTML, CSS, JS |
 |  **[SwaadSeva](https://github.com/Anshshivhare23/SwaadSeva)** | Food delivery mobile app with seamless UX | Flutter, Dart |
 |  **[SwadSeva WebSite](https://github.com/Anshshivhare23/SwadSeva-WebSite)** | Full-stack web platform for home cook registrations | JavaScript, Node.js |
-|  **[RestroZone](https://github.com/Anshshivhare23/Restrozone)** | Restaurant management web platform | HTML, CSS, JavaScript |
-|  **[Core DSA in C](https://github.com/Anshshivhare23/Core_DSA_in_C_Practice)** | Collection of Data Structures and Algorithms in C | C |
-|  **[Upwork Clone](https://github.com/Anshshivhare23/Upwork-Clone-WebWroks--Html-CSS-JavaScript-PHP-Project)** | Freelancer-client platform clone with job listings and auth | HTML, CSS, JS, PHP |
+|  **[CNC Tool Wear Prediction](https://github.com/Anshshivhare23/CNC-Tool-Wear-Prediction)** | ML project predicting cutting tool wear in CNC machining | Python, Jupyter, ML |
 
 </div>
 
@@ -101,8 +96,8 @@
 ##  GitHub Analytics
 
 <div align="center">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anshshivhare23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Anshshivhare23&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide_title=false&count_private=true" height="160" />
+ <img src="https://github-stats-extended.vercel.app/api?username=Anshshivhare23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Anshshivhare23&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide_title=false&count_private=true" height="160" />
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Anshshivhare23&theme=tokyonight&hide_border=true" height="160" />
@@ -115,7 +110,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" width="200" alt="Music vibes">
   <br><br>
-  [![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=wdfc2yo66l0azxxg0yrv7vlsc)](https://open.spotify.com/user/wdfc2yo66l0azxxg0yrv7vlsc)
+  [![Spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/wdfc2yo66l0azxxg0yrv7vlsc)
 </div>
 
 ---
