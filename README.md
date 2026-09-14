@@ -3,7 +3,7 @@
 # Hey there! I'm Ansh Shivhare 
 ###  Flutter Developer |  Problem Solver |  Tech Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Building+beautiful+mobile+%26+web+experiences;Flutter+%7C+Next.js+%7C+TypeScript;Crafting+elegant+solutions;Always+learning+something+new!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Building+beautiful+mobile+%26+web+experiences;Flutter+%7C+Next.js+%7C+TypeScript;Crafting+elegant+solutions;Always+learning+something+new!" alt="Typing SVG" />
 
 </div>
 
@@ -50,6 +50,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-%230074C1.svg?style=for-the-badge&logo=database&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -57,6 +58,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ###  Tools & Technologies
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -64,6 +66,14 @@
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-%23000000.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
 
+###  Data Science & ML
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+###  Backend
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 </div>
 
@@ -75,9 +85,14 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+|  **[CNC Tool Wear Prediction](https://github.com/Anshshivhare23/CNC-Tool-Wear-Prediction)** | ML project predicting cutting tool wear in CNC machining with sensor data analysis | Python, Jupyter, ML |
+|  **[Sammunat Internship Portfolio](https://github.com/Anshshivhare23/sammunat-internship-portfolio)** | Portfolio landing page for Sammunat LLC internship assignment | Next.js, TypeScript |
+|  **[Portfolio](https://github.com/Anshshivhare23/Portfolio)** | Personal portfolio website showcasing projects, skills, and experience | HTML, CSS, JS |
 |  **[SwaadSeva](https://github.com/Anshshivhare23/SwaadSeva)** | Food delivery mobile app with seamless UX | Flutter, Dart |
 |  **[SwadSeva WebSite](https://github.com/Anshshivhare23/SwadSeva-WebSite)** | Full-stack web platform for home cook registrations | JavaScript, Node.js |
 |  **[RestroZone](https://github.com/Anshshivhare23/Restrozone)** | Restaurant management web platform | HTML, CSS, JavaScript |
+|  **[Core DSA in C](https://github.com/Anshshivhare23/Core_DSA_in_C_Practice)** | Collection of Data Structures and Algorithms in C | C |
+|  **[Upwork Clone](https://github.com/Anshshivhare23/Upwork-Clone-WebWroks--Html-CSS-JavaScript-PHP-Project)** | Freelancer-client platform clone with job listings and auth | HTML, CSS, JS, PHP |
 
 </div>
 
@@ -86,11 +101,11 @@
 ##  GitHub Analytics
 
 <div align="center">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anshshivhare23&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anshshivhare23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anshshivhare23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Anshshivhare23&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide_title=false&count_private=true" height="160" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshshivhare23&theme=tokyonight&hide_border=true" height="150" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=Anshshivhare23&theme=tokyonight&hide_border=true" height="160" />
 </div>
 
 ---
@@ -101,7 +116,7 @@
   <img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" width="200" alt="Music vibes">
   <br><br>
   <a href="https://open.spotify.com/user/8yf86sk3w45bcis8qjsy3ipfk?si=9ad6ff7324dc483c">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=8yf86sk3w45bcis8qjsy3ipfk&count=1&unique=true" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/api?user=8yf86sk3w45bcis8qjsy3ipfk&count=1&unique=true" alt="Spotify recently played" />
   </a>
 </div>
 
