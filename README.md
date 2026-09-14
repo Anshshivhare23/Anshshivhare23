@@ -115,9 +115,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" width="200" alt="Music vibes">
   <br><br>
-  <a href="https://open.spotify.com/user/8yf86sk3w45bcis8qjsy3ipfk?si=9ad6ff7324dc483c">
-    <img src="https://spotify-recently-played.jeffreyca.workers.dev/api?user=8yf86sk3w45bcis8qjsy3ipfk&count=1&unique=true" alt="Spotify recently played" />
-  </a>
+  [![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=wdfc2yo66l0azxxg0yrv7vlsc)](https://open.spotify.com/user/wdfc2yo66l0azxxg0yrv7vlsc)
 </div>
 
 ---
